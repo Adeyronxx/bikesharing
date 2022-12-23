@@ -11,6 +11,7 @@ We had made use of a bike rideshare application called "citi-bike" during our vi
 * bikesharing.csv
 * Jupyter Notebook
 * Tableau Public
+* Link to project : https://public.tableau.com/app/profile/aderonke.adegbite/viz/citii_bike/Story1?publish=yes
 
 
 # Purpose of the Analysis.
