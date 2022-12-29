@@ -31,7 +31,7 @@ The big box size and dark shade lets us know when a particular bike is due for r
 
 3. <img width="1223" alt="Screenshot 2022-12-22 at 10 43 38 PM" src="https://user-images.githubusercontent.com/109445468/209277341-2488a01d-756d-4913-97a6-857671856ea6.png">Fewer long distance riders in comparison to short distance riders.
 
-4. <img width="1223" alt="Screenshot 2022-12-22 at 10 43 51 PM" src="https://user-images.githubusercontent.com/109445468/209277366-d04bef16-5684-4b60-8f2e-4e8eaa2edbc7.png">WE had twice as many male riders as female. In comparison of longer rides, we have a higher percentage of femal long distance riders than male long distance riders.
+4. <img width="1223" alt="Screenshot 2022-12-22 at 10 43 51 PM" src="https://user-images.githubusercontent.com/109445468/209277366-d04bef16-5684-4b60-8f2e-4e8eaa2edbc7.png">WE had twice as many male riders as female. In comparison of longer rides, we have a higher percentage of female long distance riders than male long distance riders.
 
 5. <img width="1223" alt="Screenshot 2022-12-22 at 10 44 05 PM" src="https://user-images.githubusercontent.com/109445468/209277396-9fc7f24f-795f-415f-80fe-0e346574f834.png">Thursday at 6 PM was  when most riders ended their trip.
 
