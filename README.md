@@ -40,14 +40,14 @@ The big box size and dark shade lets us know when a particular bike is due for r
  Most male and female riders stopped their trips at 6 PM.
 
 7.<img width="1223" alt="Screenshot 2022-12-22 at 10 44 38 PM" src="https://user-images.githubusercontent.com/109445468/209277476-07cc38fe-f748-41d2-b980-53ede5ad331d.png">
-Majority of our female riders are subscribers and they ride on Thursdays. majority of our male riders are also subscribers and ride the most on Thursday. Majority of our unknown riders reide on Saturdays.
+Majority of our female riders are subscribers and they ride on Thursdays. majority of our male riders are also subscribers and ride the most on Thursday. Majority of our unknown riders ride on Saturdays.
 
 
 # Summary
 
 1. <img width="1223" alt="Screenshot 2022-12-22 at 10 46 14 PM" src="https://user-images.githubusercontent.com/109445468/209277510-23103a99-a95b-4188-aea2-cb7d7cf2fd4d.png">
 
-We can observe from our analysis that customers have longer trip duration in comarison to subscribers. This may be because the bikes are used by tourists as most vustomers use the bikes on the weekends.
+We can observe from our analysis that customers have longer trip duration in comparison to subscribers. This may be because the bikes are used by tourists as most customers use the bikes on the weekends.
 
 2. The commute time in des moines is shorter than the commute time in New York. But Des Moines definitely has a lot of tourist attractions and bike trails so Des Moines is a great place to start a biske sharibg app.
 
