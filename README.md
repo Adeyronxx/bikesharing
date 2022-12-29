@@ -37,7 +37,7 @@ The big box size and dark shade lets us know when a particular bike is due for r
 
 6. <img width="1223" alt="Screenshot 2022-12-22 at 10 44 24 PM" src="https://user-images.githubusercontent.com/109445468/209277440-064d8207-c608-4f58-ad31-5d047b42ff9a.png">
 
- Most male and femal riders stopped their trips at 6 PM.
+ Most male and female riders stopped their trips at 6 PM.
 
 7.<img width="1223" alt="Screenshot 2022-12-22 at 10 44 38 PM" src="https://user-images.githubusercontent.com/109445468/209277476-07cc38fe-f748-41d2-b980-53ede5ad331d.png">
 Majority of our female riders are subscribers and they ride on Thursdays. majority of our male riders are also subscribers and ride the most on Thursday. Majority of our unknown riders reide on Saturdays.
